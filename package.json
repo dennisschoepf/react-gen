@@ -1,0 +1,10 @@
+{
+  "name": "react-gen",
+  "version": "0.1.0",
+  "description": "A generator for react components. Generates .test (Jest), .stories (Storybook) and .mock-file.",
+  "main": "index.js",
+  "repository": "https://github.com/dennisschoepf/react-gen.git",
+  "author": "Dennis Schoepf",
+  "license": "MIT",
+  "private": false
+}

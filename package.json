@@ -9,5 +9,10 @@
   "private": false,
   "bin": {
     "react-gen": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0"
   }
 }

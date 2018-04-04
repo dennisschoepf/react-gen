@@ -1,5 +1,5 @@
 {
-  "name": "react-gen",
+  "name": "@dennisschoepf/react-gen",
   "version": "0.1.0",
   "description": "A generator for react components. Generates .test (Jest), .stories (Storybook) and .mock-file.",
   "main": "index.js",

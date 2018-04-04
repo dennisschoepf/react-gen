@@ -12,7 +12,7 @@ Follow the instructions to install the following packages:
 ## Installation & Usage
 
 ```
-$ npm i -g react gen
+$ npm i -g @dennisschoepf/react-gen
 $ react-gen
 ```
 or just use it with
@@ -20,7 +20,7 @@ or just use it with
 $ npx react-gen
 ```
 
-You then will be asked to provide a name for your component and to be able choose from a number of templates.
+You then will be asked to provide a name for your component and be able to choose from a number of templates.
 
 ## Options
 

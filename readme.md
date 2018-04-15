@@ -31,6 +31,7 @@ Currently there are no additional options supported.
 Currently you have to fork the project to make modifications. In the future you will be able to configure your own templates.
 
 ## To-Do
+- [ ] Return promise from createFile operation
 - [ ] Parallelize createFile operations with Promise.all([])
 - [ ] Implement ability to pass component name and template directly through options
 - [ ] Refactor generator and getTemplate function to allow user-defined templates

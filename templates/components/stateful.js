@@ -25,7 +25,7 @@ class ${name} extends Component<Props, State> {
   /* Constructor and state initialization */
   constructor(props: Props) {
     super(props);
-    this.state = {
+    this.state: State = {
 
     };
   }

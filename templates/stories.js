@@ -5,7 +5,7 @@ import ${name} from './${name}';
 import props from './${name}.mock';
 
 storiesOf('Components/${name}', module)
-  .add('online', () => (
+  .add('default', () => (
     <${name} {...props} />
   ))
 `

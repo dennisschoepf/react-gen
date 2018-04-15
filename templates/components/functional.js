@@ -12,7 +12,9 @@ const Wrapper = styled.div\`
   
 \`;
 
-const ${name} = (props): Node => (
+const ${name} = ({
+
+}: Props): Node => (
   <Wrapper {...props} />
 );
 

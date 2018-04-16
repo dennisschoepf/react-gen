@@ -17,7 +17,7 @@ $ react-gen
 ```
 or just use it with
 ```
-$ npx react-gen
+$ npx @dennisschoepf/react-gen
 ```
 
 You then will be asked to provide a name for your component and be able to choose from a number of templates.
@@ -31,10 +31,13 @@ Currently there are no additional options supported.
 Currently you have to fork the project to make modifications. In the future you will be able to configure your own templates.
 
 ## To-Do
-- [ ] Return promise from createFile operation
-- [ ] Parallelize createFile operations with Promise.all([])
+- [X] Return promise from createFile operation
+- [X] Parallelize createFile operations with Promise.all([])
 - [ ] Implement ability to pass component name and template directly through options
 - [ ] Refactor generator and getTemplate function to allow user-defined templates
 - [ ] Implement config file for easier configuration of templates
+- [ ] Document prerequisite instructions directly in readme
+- [ ] Add template for styleguidist .md file
+- [ ] Handle error messages in a user friendly way
 
 PR's are welcome.

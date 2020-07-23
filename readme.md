@@ -1,3 +1,5 @@
+Work on this project is discontinued.
+
 # react-gen
 
 ## Prerequisites
